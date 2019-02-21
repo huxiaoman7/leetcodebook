@@ -20,3 +20,17 @@
 |16|[3Sum Closet](https://leetcode.com/problems/3sum-closest/)|medium|python、java、c++|
 |259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|medium|python、java、c++|
 |18|[4Sum](https://leetcode.com/problems/4sum/)|medium|python、java、c++|
+
+#### 子数组问题
+|   序号 | 题目 | 难度 |代码|
+|78|[Subsets](https://leetcode.com/problems/subsets/)|medium||
+|90|[Subsets II](https://leetcode.com/problems/subsets-ii/)|medium||
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|easy||
+|325|[Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)|medium||
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|medium||
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|medium||
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|medium||
+|239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|hard||
+|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|hard||
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|medium||
+|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)|medium||
