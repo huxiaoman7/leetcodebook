@@ -7,7 +7,7 @@
 
 - [Leetcode专栏开始啦](https://mp.weixin.qq.com/s?__biz=MzI0OTQwMTA5Ng==&mid=2247483811&idx=1&sn=f2861c24a58f7791cf1873817845bb5d&chksm=e9935bc4dee4d2d22a5c38616152cf8f56650775d3fef932056002816468ae136d1b003a5f50&token=968139680&lang=zh_CN#rd)
 - [Leetcode数组知识点&题型总结](https://mp.weixin.qq.com/s?__biz=MzI0OTQwMTA5Ng==&mid=2247483819&idx=1&sn=071731261441f702f429ae9fc1b98b84&chksm=e9935bccdee4d2da68f0a62830c23daba65fe81c42f4f04f0f5358f1b76bcf144b70f3b4a30d&token=1778626027&lang=zh_CN#rd)
-	- [github完整版文章](https://github.com/huxiaoman7/leetcodebook/blob/master/array.md)
+	- [github完整版文章](https://github.com/huxiaoman7/leetcodebook/blob/master/Array/array.md)
 - Leetcode链表知识点&题型总结
 
 ------
