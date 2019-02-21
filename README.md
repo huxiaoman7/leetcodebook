@@ -1,6 +1,6 @@
 # LeetCode-book
 ------
-LeetCode 1~400题总结 + 专题知识点&题型总结
+- LeetCode 1~400题总结 + 专题知识点&题型总结
 ------
 
 ### Leetcode知识点详解&题型总结
