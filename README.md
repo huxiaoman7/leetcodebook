@@ -12,7 +12,7 @@
 
 ------
 ### LeetCode题目分类
-#### N-Sum 类题目
+#### K-Sum 类题目
 |   序号 | 题目 | 难度 |代码|
 | :------| :------ | :------ |:------ |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | easy | python、java、c++|
