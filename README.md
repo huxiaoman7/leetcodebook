@@ -21,6 +21,18 @@
 |259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|medium|python、java、c++|
 |18|[4Sum](https://leetcode.com/problems/4sum/)|medium|python、java、c++|
 
+
+#### 区间问题
+   序号 | 题目 | 难度 |代码|
+| :------| :------ | :------ |:------ |
+|56|	[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|medium||    
+|57|	[Insert Interval](https://leetcode.com/problems/insert-interval/) |hard||   
+|252|	[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|easy||
+|253|	[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|medium||
+|352|	[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/)|hard||
+
+
+
 #### 子数组问题
 |   序号 | 题目 | 难度 |代码|
 | :------| :------ | :------ |:------ |
