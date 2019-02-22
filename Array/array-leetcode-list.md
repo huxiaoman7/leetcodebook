@@ -109,7 +109,7 @@
 | 118          | [Pascal's Triangle    ](https://leetcode.com/problems/pascals-triangle) | Easy   | python、java、c++ |
 | 119          | [Pascal's Triangle II    ](https://leetcode.com/problems/pascals-triangle-ii) | Easy   | python、java、c++ |
 
-####基础
+#### 基础
 ##### 基础题目
 | 序号         | 题目                                                         | 难度   | 代码              |
 | ------------ | ------------------------------------------------------------ | ------ | ----------------- | 
