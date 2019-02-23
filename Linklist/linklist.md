@@ -21,21 +21,18 @@
 
 ​	循环链表是一种特殊的单链表，与单链表不同的是尾节点不指向空地址，指向链表的头结点。优点是从链尾到链头比较方便，当要处理的数据具有环形结构特点是，非常适合用循环链表来处理。
 
-![image](https://github.com/huxiaoman7/leetcodebook/tree/master/Linklist/pic/2.png)
-
+![image](https://raw.githubusercontent.com/huxiaoman7/leetcodebook/master/Linklist/pic/2.png)
 
 
 #### 双向链表
 
 ​	双向链表支持两个方向，每个节点不只有一个后驱指针next指向后面的节点，还有一个前驱指针prev指向前面的节点。
 
-![image](https://github.com/huxiaoman7/leetcodebook/tree/master/Linklist/pic/3.png)
-
+![image](https://raw.githubusercontent.com/huxiaoman7/leetcodebook/master/Linklist/pic/3.png)
 
 #### 双向循环链表
 
-![image](https://github.com/huxiaoman7/leetcodebook/tree/master/Linklist/pic/4.png)
-
+![image](https://raw.githubusercontent.com/huxiaoman7/leetcodebook/master/Linklist/pic/4.png)
 
 ### 与数组的性能对比
 
@@ -280,10 +277,7 @@ class Solution:
 
 - 解题思路：迭代法。翻转链表第一步找起始位置和它前面的节点，头结点的前驱节点我们还是设置dummy，从m->n翻转，那么在开始处设置为start node，后驱节点设置为then, 即start.next = then，来帮助我们翻转。以test case 为例，下面是第一次翻转：
 
-![image](https://github.com/huxiaoman7/leetcodebook/tree/master/Linklist/pic/5.png)
-
-
-
+![image](https://raw.githubusercontent.com/huxiaoman7/leetcodebook/master/Linklist/pic/5.png)
 ​	第一次翻转完成之后，如图所示 由 dummy->1 - 2 - 3 - 4 - 5  变成了 dummy->1 - 3 - 2 - 4 - 5，同理，迭代，第二次翻转后 由 dummy->1 - 3 - 2 - 4 - 5  变成 dummy->1 - 4 - 3 - 2 - 5，翻转结束。简单来说，相当于不断地交换then和start，然后将then后移直到结束。
 
 - code：
