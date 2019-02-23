@@ -13,7 +13,7 @@
 
 ​	每个节点有一个next指针指向后一个节点，还有一个成员变量用于存储数值。单向链表中有两个节点比较特殊，分别是头结点和尾节点。头结点用来记录链表的基地址，知道头结点我们就可以遍历得到整条链表。尾结点的特殊在于指针指向的是一个空指针NULL。
 
-![image](http://github.com/huxiaoman7/leetcodebook/tree/master/Linklist/pic/1.png)
+![](https://github.com/huxiaoman7/leetcodebook/tree/master/Linklist/pic/1.png)
 
 
 
