@@ -96,6 +96,8 @@ class Solution(object):
 >Output: 2
 >解释：满足子数组和=7的最小长度数组是[4,3],所以output=2
 - 解题思路：求的数字要大于等于这个数字target，譬如这个testcase中，[2,3,1,2,4,3]，从前往后相加，前四项相加的和为8.已经大于7了，但是我们的target是7，后面的几项也都是正整数，继续往后走，肯定也会大于target7，所以这个时候我们把left指针往右移动一位，那么就是相当于成为了一个滑动窗口（sliding window），这种方法在String类型的题目出现的更多。
+
+![image](https://raw.githubusercontent.com/huxiaoman7/leetcodebook/master/Array/pic/subarray.png)
 ￼
 - code:
 Java解法
