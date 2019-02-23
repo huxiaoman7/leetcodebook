@@ -57,7 +57,7 @@
 - 解题思路：在这个题目里，如果一个人要参加所有会议，那么所有会议的时间应该不能重合，所以只需要判断后一个会议开始的start > 前一个会议结束的end就就可以，如果end>start,就返回false。首先得先对所有子数组的start进行排序，然后再进行判断start和end
 
 Java解法
-```
+```java
 class Solution{
     public boolean canAttendMeetings(Interval[] intervals){
         Arrays.sort(intervals,(x,y)->(x.start-y.start);
@@ -69,8 +69,9 @@ class Solution{
 }
 return true;
 ```
+
 Python解法
-```
+```python
 class Solution(object):
     def canAttendMeetings(self, intervals):
         """
