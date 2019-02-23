@@ -692,6 +692,8 @@ class Solution(object):
 
 > LeetCode中含有拆分类的题目：
 
+| 序号 | 题目                                                         | 难度   | 代码              |
+| ---- | ------------------------------------------------------------ | ------ | ----------------- |
 | 725  | [Split Linked   List in Parts    ](https://leetcode.com/problems/split-linked-list-in-parts) | Medium | python、java、c++ |
 | ---- | ------------------------------------------------------------ | ------ | ----------------- |
 | 86   | [Partition   List    ](https://leetcode.com/problems/partition-list) | Medium | python、java、c++ |
@@ -812,6 +814,8 @@ class Solution(object):
 
 > LeetCode中 包含链表排序的题目：
 
+| 序号 | 题目                                                         | 难度   | 代码              |
+| ---- | ------------------------------------------------------------ | ------ | ----------------- |
 | 143  | [Reorder List    ](https://leetcode.com/problems/reorder-list) | Medium | python、java、c++ |
 | ---- | ------------------------------------------------------------ | ------ | ----------------- |
 | 147  | [Insertion   Sort List    ](https://leetcode.com/problems/insertion-sort-list) | Medium | python、java、c++ |
