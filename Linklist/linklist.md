@@ -13,7 +13,7 @@
 
 ​	每个节点有一个next指针指向后一个节点，还有一个成员变量用于存储数值。单向链表中有两个节点比较特殊，分别是头结点和尾节点。头结点用来记录链表的基地址，知道头结点我们就可以遍历得到整条链表。尾结点的特殊在于指针指向的是一个空指针NULL。
 
-![Image 20190223 121308](/var/folders/nn/yb55g75x42v7fv9z60z5jsmr0000gn/T/com.yinxiang.Mac/com.yinxiang.Mac/WebKitDnD.hXVgzG/Image 20190223 121308.png)
+![image](https://github.com/huxiaoman7/leetcodebook/tree/master/Linklist/pic/1.png)
 
 
 
@@ -21,7 +21,7 @@
 
 ​	循环链表是一种特殊的单链表，与单链表不同的是尾节点不指向空地址，指向链表的头结点。优点是从链尾到链头比较方便，当要处理的数据具有环形结构特点是，非常适合用循环链表来处理。
 
-![Image 20190223 121330](/var/folders/nn/yb55g75x42v7fv9z60z5jsmr0000gn/T/com.yinxiang.Mac/com.yinxiang.Mac/WebKitDnD.hJUsTh/Image 20190223 121330.png)
+![image](https://github.com/huxiaoman7/leetcodebook/tree/master/Linklist/pic/2.png)
 
 
 
@@ -29,14 +29,12 @@
 
 ​	双向链表支持两个方向，每个节点不只有一个后驱指针next指向后面的节点，还有一个前驱指针prev指向前面的节点。
 
-![Image 20190223 121345](/var/folders/nn/yb55g75x42v7fv9z60z5jsmr0000gn/T/com.yinxiang.Mac/com.yinxiang.Mac/WebKitDnD.Wpgz48/Image%2020190223%20121345.png)
-
+![image](https://github.com/huxiaoman7/leetcodebook/tree/master/Linklist/pic/3.png)
 
 
 #### 双向循环链表
 
-![Image 20190223 121413](/var/folders/nn/yb55g75x42v7fv9z60z5jsmr0000gn/T/com.yinxiang.Mac/com.yinxiang.Mac/WebKitDnD.LHnLRH/Image 20190223 121413.png)
-
+![image](https://github.com/huxiaoman7/leetcodebook/tree/master/Linklist/pic/4.png)
 
 
 ### 与数组的性能对比
@@ -282,7 +280,8 @@ class Solution:
 
 - 解题思路：迭代法。翻转链表第一步找起始位置和它前面的节点，头结点的前驱节点我们还是设置dummy，从m->n翻转，那么在开始处设置为start node，后驱节点设置为then, 即start.next = then，来帮助我们翻转。以test case 为例，下面是第一次翻转：
 
-  ![Image 20190223 085356](/var/folders/nn/yb55g75x42v7fv9z60z5jsmr0000gn/T/com.yinxiang.Mac/com.yinxiang.Mac/WebKitDnD.MQcbWm/Image 20190223 085356.png)
+![image](https://github.com/huxiaoman7/leetcodebook/tree/master/Linklist/pic/5.png)
+
 
 
 ​	第一次翻转完成之后，如图所示 由 dummy->1 - 2 - 3 - 4 - 5  变成了 dummy->1 - 3 - 2 - 4 - 5，同理，迭代，第二次翻转后 由 dummy->1 - 3 - 2 - 4 - 5  变成 dummy->1 - 4 - 3 - 2 - 5，翻转结束。简单来说，相当于不断地交换then和start，然后将then后移直到结束。
