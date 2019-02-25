@@ -1,4 +1,4 @@
-## 数组
+数组
 
 ###  什么是数组
 
@@ -33,9 +33,80 @@
 【一维数组】
 #### 1.K-Sum
 ​	这类题目通常会给定一个数组和一个值，让求出这个数组中两个/三个/K个值的和等于这个给定的值target。leetcode第一题就是two-sum，对于这类题目，首先看题目要求的时间复杂度和空间复杂度是什么，其次看有没有限制条件，如要求不能有重复的子数组或者要求按照升序/降序排列等。解法如下：
-- 暴力解法：最常见，但是通常会超时，只能作为备选，
-- hash-map：建立一个hash-map循环遍历一次即可
-- two-pointers：定位两个指针根绝和的大小来移动另外一个。这里设定的指针个数根据题目中K的个数来定。3Sum中可以设定3个指针，固定两个，移动另一个
+
+> 1.暴力解法：最常见，但是通常会超时，只能作为备选，
+>
+> 2.hash-map：建立一个hash-map循环遍历一次即可
+>
+> 3.two-pointers：定位两个指针根绝和的大小来移动另外一个。这里设定的指针个数根据题目中K的个数来定。3Sum中可以设定3个指针，固定两个，移动另一个。
+
+- 例题：167 Two Sum II - Input array is sorted 【easy】
+- 题解：
+- test case:
+- 解题思路：
+- code：
+
+Java
+
+```java
+  /*hash-map*/
+  class Solution {
+      public int[] twoSum(int[] numbers, int target) {
+          int[] result = new int[2];
+          HashMap<Integer,Integer> map = new HashMap<Integer,Integer>();
+          for (int i = 0;i<numbers.length;i++){
+          if (map.containsKey(target-numbers[i])){
+              result[0]=map.get(target-numbers[i]);
+              result[1]= i+1;
+          }
+          map.put(numbers[i],i+1);       
+      }
+          return result;
+      }
+  }
+```
+
+  
+
+  Python
+
+  ```python
+  # 双指针法
+  def twoSum1(self, numbers, target):
+      l, r = 0, len(numbers)-1
+      while l < r:
+          s = numbers[l] + numbers[r]
+          if s == target:
+              return [l+1, r+1]
+          elif s < target:
+              l += 1
+          else:
+              r -= 1
+   
+  # dictionary           
+  def twoSum2(self, numbers, target):
+      dic = {}
+      for i, num in enumerate(numbers):
+          if target-num in dic:
+              return [dic[target-num]+1, i+1]
+          dic[num] = i
+   
+  # binary search        
+  def twoSum(self, numbers, target):
+      for i in xrange(len(numbers)):
+          l, r = i+1, len(numbers)-1
+          tmp = target - numbers[i]
+          while l <= r:
+              mid = l + (r-l)//2
+              if numbers[mid] == tmp:
+                  return [i+1, mid+1]
+              elif numbers[mid] < tmp:
+                  l = mid+1
+              else:
+                  r = mid-1
+  ```
+
+
 
 
 #### 2.区间问题
@@ -98,6 +169,8 @@ class Solution(object):
 >解释：满足子数组和=7的最小长度数组是[4,3],所以output=2
 - 解题思路：求的数字要大于等于这个数字target，譬如这个testcase中，[2,3,1,2,4,3]，从前往后相加，前四项相加的和为8.已经大于7了，但是我们的target是7，后面的几项也都是正整数，继续往后走，肯定也会大于target7，所以这个时候我们把left指针往右移动一位，那么就是相当于成为了一个滑动窗口（sliding window），这种方法在String类型的题目出现的更多。
 
+  ​	在本题中，刚好最后两位4，3相加等于target7，所以滑动窗口滑到最后一位的时候满足题解，但是有个问题，如果在滑动的过程中，中间出现某个数字大于target或者等于target
+
 ![image](https://raw.githubusercontent.com/huxiaoman7/leetcodebook/master/Array/pic/subarray.png)
 ￼
 - code:
@@ -138,9 +211,62 @@ def minSubArrayLen(self, s, nums):
 
 #### Rotate题型
 
+- 例题：48. Rotate Image 【medium】
+
+- 题解：
+
+- test case：
+
+  > Given input matrix = 
+  > [
+  >   [1,2,3],
+  >   [4,5,6],
+  >   [7,8,9]
+  > ],
+  >
+  > rotate the input matrix in-place such that it becomes:
+  > [
+  >   [7,4,1],
+  >   [8,5,2],
+  >   [9,6,3]
+  > ]
+
+- 解题方法：
+
+  - 1.转置后再翻转
+  - 2.旋转四个角
+
+- code：
+
+  Python
+
+  ```python
+  # 旋转后再翻转
+  class solution：
+  	def rotate(self,matrix):
+          """
+          :type matrix: List[List[int]]
+          :rtype: void Do not return anything, modify matrix in-place instead.
+          """
+          n = len(matrix[0])
+          # 转置
+          for i in range(n):
+              for j in range(i,n):
+              matrix[j][i],matrix[i][j] = matrix[i][j],matrix[j][i]
+              
+          for i in range(n):
+              matrix[i].reverse()    
+              
+  # 旋转四个角
+  ```
 
 
 
+
+
+- 复杂度分析：
+  - 转置后翻转：时间$O(N^2)$ ,空间$O(1)$.
+  - 
 
 
 
