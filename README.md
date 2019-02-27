@@ -235,3 +235,13 @@
 | 707        | [Design   Linked List    ](https://leetcode.com/problems/design-linked-list) | Easy   | python、java、c++ |
 | 817        | [Linked   List Components    ](https://leetcode.com/problems/linked-list-components) | Medium | python、java、c++ |
 | 876        | [Middle of the   Linked List    ](https://leetcode.com/problems/middle-of-the-linked-list) | Easy   | python、java、c++ |
+
+
+## LeetCode 1~400顺序题解
+- [python版本]()
+- [java版本]()
+- [c++版本]()
+
+
+
+
