@@ -238,7 +238,7 @@
 
 
 ## LeetCode 1~400顺序题解
-- [python版本](https://github.com/huxiaoman7/leetcodebook/tree/master/python)
+- [python版本](https://github.com/huxiaoman7/leetcodebook/tree/master/python) | 已更新1~60
 - [java版本](https://github.com/huxiaoman7/leetcodebook/tree/master/java)
 - [c++版本](https://github.com/huxiaoman7/leetcodebook/tree/master/c++)
 
