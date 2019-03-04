@@ -136,15 +136,15 @@
 ##### Search类题
 | 序号         | 题目                                                         | 难度   | 代码              |
 | ------------ | ------------------------------------------------------------ | ------ | ----------------- | 
-| 33           | [Search in Rotated Sorted Array    ](https://leetcode.com/problems/wiggle-subsequence/) | Medium | 代码              |
-| 81           | [Search   in Rotated Sorted Array II    ](https://leetcode.com/problems/sort-colors) | Medium |                   |
-| 34           | [Find First and Last Position of Element in Sorted   Array    ](https://leetcode.com/problems/wiggle-sort/) | Medium | python、java、c++ |
-| 35           | [Search Insert Position    ](https://leetcode.com/problems/next-permutation) | Easy   | python、java、c++ |
-| 74           | [Search a 2D Matrix    ](https://leetcode.com/problems/combination-sum) | Medium | python、java、c++ |
-| 79           | [Word Search    ](https://leetcode.com/problems/combination-sum-ii) | Medium | python、java、c++ |
+| 33           | [Search in Rotated Sorted Array    ](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | python、java、c++         |
+| 81           | [Search   in Rotated Sorted Array II    ](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Medium | python、java、c++         |
+| 34           | [Find First and Last Position of Element in Sorted   Array    ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | python、java、c++ |
+| 35           | [Search Insert Position    ](https://leetcode.com/problems/search-insert-position/) | Easy   | python、java、c++ |
+| 74           | [Search a 2D Matrix    ](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | python、java、c++ |
+| 79           | [Word Search    ](https://leetcode.com/problems/word-search/) | Medium | python、java、c++ |
 | 153          | [Find Minimum in Rotated Sorted   Array    ](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | Medium | python、java、c++ |
 | 154          | [Find Minimum in Rotated Sorted Array   II    ](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii) | Hard   | python、java、c++ |
-| 39           | [Combination   Sum    ](https://leetcode.com/problems/largest-rectangle-in-histogram) | Medium | python、java、c++ |
+| 39           | [Combination   Sum    ](https://leetcode.com/problems/combination-sum/) | Medium | python、java、c++ |
 | 40           | [Combination Sum II    ](https://leetcode.com/problems/combination-sum-ii) | Medium | python、java、c++ |
 | 216          | [Combination Sum III    ](https://leetcode.com/problems/combination-sum-iii) | Medium | python、java、c++ |
 | 45           | [Jump   Game II    ](https://leetcode.com/problems/jump-game-ii) | Hard   | python、java、c++ |
@@ -175,8 +175,8 @@
 | ------------ | ------------------------------------------------------------ | ------ | ----------------- |       
 | 274          | [H-Index](https://leetcode.com/problems/h-index/)                                                      | medium | python、java、c++ |
 | 376          | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)                                           | medium | python、java、c++ |
-| 277          | [Find the Celebrity    ](https://leetcode.com/problems/game-of-life) | medium | python、java、c++ |
-| 370          | [Range   Addition    ](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed) | medium | python、java、c++ |
+| 277          | [Find the Celebrity    ](https://leetcode.com/problems/find-the-celebrity/) | medium | python、java、c++ |
+| 370          | [Range   Addition    ](https://leetcode.com/problems/range-addition/) | medium | python、java、c++ |
 | 296          | [Best Meeting Point](https://leetcode.com/problems/best-meeting-point)                                           | hard   | python、java、c++ |
 
 ------
