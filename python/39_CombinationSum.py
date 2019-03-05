@@ -5,3 +5,18 @@
 # @File    : 39_CombinationSum.py
 # @Package : LeetCode
 # @E-mail  : charlotte77_hu@sina.com
+
+
+class Solution(object):
+
+
+
+
+
+
+
+
+
+if __name__=='__main__':
+    s = Solution()
+    print
