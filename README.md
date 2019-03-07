@@ -237,6 +237,28 @@
 | 876        | [Middle of the   Linked List    ](https://leetcode.com/problems/middle-of-the-linked-list) | Easy   | python、java、c++ |
 
 
+
+
+------
+### 栈·题目
+#### 基础题型
+
+
+
+
+
+#### 表达式计算
+
+
+
+
+#### 迭代极值
+
+
+
+
+#### 栈的应用
+
 ## LeetCode 1~400顺序题解
 - [python版本](https://github.com/huxiaoman7/leetcodebook/tree/master/python) | 已更新1~60
 - [java版本](https://github.com/huxiaoman7/leetcodebook/tree/master/java)
