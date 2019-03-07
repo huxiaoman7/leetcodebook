@@ -29,10 +29,14 @@ class Solution(object):
             else:
                 new_dp += [dp[j] and s[j] == letter for j in range(l)]
             dp = new_dp
+        # else:
+        #     new_dp += [dp[j] and s[j] == letter for j in range(l)]
+        #     dp =
+
         return dp[-1]
 
 
 
 if __name__=='__main__':
     s = Solution()
-    print s.isMatch("aa","a")
+    print s.isMatch("aa","aaa")
