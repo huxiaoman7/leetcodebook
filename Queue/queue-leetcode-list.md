@@ -25,7 +25,7 @@
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | Medium | python |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | python |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule) | Medium | python |
-| 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | Medium |  |
+| 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | Medium | python |
 | 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates) | Medium |  |
 | 317 | [Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings) | Hard |  |
 
@@ -41,8 +41,8 @@
 | 序号 | 题目 | 难度 | 代码 |
 | ---- | ---- | ---- | ---- |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | Hard | python |
-| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium |  |
-| 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | Hard |  |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium | python |
+| 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | Hard | python |
 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) | Medium |  |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | Hard |  |
 | 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number) | Medium |  |

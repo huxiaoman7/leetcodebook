@@ -287,13 +287,13 @@
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph) | Medium | python |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | python |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule) | Medium | python |
-| 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | Medium |  |
+| 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | Medium | python |
 
 #### 单调队列和优先队列
 | 序号 | 题目 | 难度 | 代码 |
 | ---- | ---- | ---- | ---- |
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | Hard | python |
-| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium |  |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium | python |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Hard | python |
 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) | Medium |  |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | Hard |  |
@@ -302,7 +302,7 @@
 > 队列知识点和更多题目：[Queue/queue.md](./Queue/queue.md) | [Queue/queue-leetcode-list.md](./Queue/queue-leetcode-list.md)
 
 ## LeetCode 1~400顺序题解
-- [python版本](https://github.com/huxiaoman7/leetcodebook/tree/master/python) | 已更新1~174、179、186~191、198~200（175~178、180~185、196~197为SQL题，192~195为Shell题）
+- [python版本](https://github.com/huxiaoman7/leetcodebook/tree/master/python) | 已更新1~174、179、186~191、198~220（175~178、180~185、196~197为SQL题，192~195为Shell题）
 - [sql版本](https://github.com/huxiaoman7/leetcodebook/tree/master/sql) | 已更新175~178、180~185、196~197
 - [shell版本](https://github.com/huxiaoman7/leetcodebook/tree/master/shell) | 已更新192~195
 - [java版本](https://github.com/huxiaoman7/leetcodebook/tree/master/java)
