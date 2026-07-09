@@ -22,7 +22,7 @@
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder) | Hard | python |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | Medium | python |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph) | Medium | python |
-| 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | Medium |  |
+| 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | Medium | python |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | python |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule) | Medium | python |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | Medium |  |

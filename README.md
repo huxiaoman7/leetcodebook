@@ -302,8 +302,9 @@
 > 队列知识点和更多题目：[Queue/queue.md](./Queue/queue.md) | [Queue/queue-leetcode-list.md](./Queue/queue-leetcode-list.md)
 
 ## LeetCode 1~400顺序题解
-- [python版本](https://github.com/huxiaoman7/leetcodebook/tree/master/python) | 已更新1~174、179（175~178、180为SQL题）
-- [sql版本](https://github.com/huxiaoman7/leetcodebook/tree/master/sql) | 已更新175~178、180
+- [python版本](https://github.com/huxiaoman7/leetcodebook/tree/master/python) | 已更新1~174、179、186~191、198~200（175~178、180~185、196~197为SQL题，192~195为Shell题）
+- [sql版本](https://github.com/huxiaoman7/leetcodebook/tree/master/sql) | 已更新175~178、180~185、196~197
+- [shell版本](https://github.com/huxiaoman7/leetcodebook/tree/master/shell) | 已更新192~195
 - [java版本](https://github.com/huxiaoman7/leetcodebook/tree/master/java)
 - [c++版本](https://github.com/huxiaoman7/leetcodebook/tree/master/c++)
 
