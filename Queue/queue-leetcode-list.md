@@ -7,7 +7,7 @@
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | python |
 | 281 | [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator) | Medium | python |
 | 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator) | Medium | python |
-| 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream) | Easy |  |
+| 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream) | Easy | python |
 | 362 | [Design Hit Counter](https://leetcode.com/problems/design-hit-counter) | Medium |  |
 | 379 | [Design Phone Directory](https://leetcode.com/problems/design-phone-directory) | Medium |  |
 
@@ -34,7 +34,7 @@
 | ---- | ---- | ---- | ---- |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Hard | python |
 | 276 | [Paint Fence](https://leetcode.com/problems/paint-fence) | Easy | python |
-| 353 | [Design Snake Game](https://leetcode.com/problems/design-snake-game) | Medium |  |
+| 353 | [Design Snake Game](https://leetcode.com/problems/design-snake-game) | Medium | python |
 | 363 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) | Hard |  |
 
 #### 优先队列
@@ -46,7 +46,7 @@
 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) | Medium | python |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | Hard | python |
 | 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number) | Medium | python |
-| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium |  |
-| 355 | [Design Twitter](https://leetcode.com/problems/design-twitter) | Medium |  |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium | python |
+| 355 | [Design Twitter](https://leetcode.com/problems/design-twitter) | Medium | python |
 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums) | Medium |  |
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix) | Medium |  |

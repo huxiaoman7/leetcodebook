@@ -9,7 +9,7 @@
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack) | Easy | python |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | Easy | python |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | python |
-| 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) | Medium |  |
+| 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) | Medium | python |
 | 385 | [Mini Parser](https://leetcode.com/problems/mini-parser) | Medium |  |
 
 #### 表达式计算
