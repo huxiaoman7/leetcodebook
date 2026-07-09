@@ -27,7 +27,7 @@
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule) | Medium | python |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | Medium | python |
 | 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates) | Medium | python |
-| 317 | [Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings) | Hard |  |
+| 317 | [Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings) | Hard | python |
 
 #### 单调队列
 | 序号 | 题目 | 难度 | 代码 |
@@ -45,7 +45,7 @@
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | Hard | python |
 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) | Medium | python |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | Hard | python |
-| 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number) | Medium |  |
+| 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number) | Medium | python |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium |  |
 | 355 | [Design Twitter](https://leetcode.com/problems/design-twitter) | Medium |  |
 | 373 | [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums) | Medium |  |

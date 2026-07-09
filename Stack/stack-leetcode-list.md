@@ -28,7 +28,7 @@
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | Hard | python |
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | Hard | python |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Hard | python |
-| 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | Medium |  |
+| 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | Medium | python |
 | 321 | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number) | Hard |  |
 | 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits) | Medium |  |
 
