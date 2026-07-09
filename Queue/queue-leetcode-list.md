@@ -43,7 +43,7 @@
 | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | Hard | python |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium | python |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem) | Hard | python |
-| 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) | Medium |  |
+| 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) | Medium | python |
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | Hard |  |
 | 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number) | Medium |  |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium |  |

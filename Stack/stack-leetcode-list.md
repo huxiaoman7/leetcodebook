@@ -18,7 +18,7 @@
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | Medium | python |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | Hard | python |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) | Medium | python |
-| 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) | Medium |  |
+| 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) | Medium | python |
 | 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) | Hard |  |
 
 #### 迭代极值
