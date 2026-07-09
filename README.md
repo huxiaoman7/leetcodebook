@@ -242,22 +242,64 @@
 ------
 ### 栈·题目
 #### 基础题型
-
-
-
-
-
+| 序号 | 题目 | 难度 | 代码 |
+| ---- | ---- | ---- | ---- |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | python |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | Hard | python |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack) | Easy | python |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | Easy |  |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | python |
 #### 表达式计算
-
-
-
-
+| 序号 | 题目 | 难度 | 代码 |
+| ---- | ---- | ---- | ---- |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | Medium | python |
+| 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | Hard |  |
+| 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) | Medium |  |
+| 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) | Medium |  |
 #### 迭代极值
-
-
-
-
+| 序号 | 题目 | 难度 | 代码 |
+| ---- | ---- | ---- | ---- |
+| 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | Hard | python |
+| 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | Hard | python |
+| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | Hard |  |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Hard | python |
+| 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | Medium |  |
 #### 栈的应用
+| 序号 | 题目 | 难度 | 代码 |
+| ---- | ---- | ---- | ---- |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy |  |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | Easy |  |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | Easy |  |
+| 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | Medium |  |
+| 394 | [Decode String](https://leetcode.com/problems/decode-string) | Medium |  |
+
+> 栈知识点和更多题目：[Stack/stack.md](./Stack/stack.md) | [Stack/stack-leetcode-list.md](./Stack/stack-leetcode-list.md)
+
+------
+### 队列·题目
+#### BFS
+| 序号 | 题目 | 难度 | 代码 |
+| ---- | ---- | ---- | ---- |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | Medium |  |
+| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | Medium |  |
+| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder) | Hard |  |
+| 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | Medium |  |
+| 133 | [Clone Graph](https://leetcode.com/problems/clone-graph) | Medium | python |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | python |
+| 207 | [Course Schedule](https://leetcode.com/problems/course-schedule) | Medium | python |
+| 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | Medium |  |
+
+#### 单调队列和优先队列
+| 序号 | 题目 | 难度 | 代码 |
+| ---- | ---- | ---- | ---- |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | Hard | python |
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium |  |
+| 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Hard | python |
+| 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) | Medium |  |
+| 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) | Hard |  |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium |  |
+
+> 队列知识点和更多题目：[Queue/queue.md](./Queue/queue.md) | [Queue/queue-leetcode-list.md](./Queue/queue-leetcode-list.md)
 
 ## LeetCode 1~400顺序题解
 - [python版本](https://github.com/huxiaoman7/leetcodebook/tree/master/python) | 已更新1~60
@@ -273,6 +315,4 @@
 
 
 ### 动态规划·题目
-
-
 
