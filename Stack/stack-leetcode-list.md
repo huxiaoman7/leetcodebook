@@ -19,7 +19,7 @@
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | Hard | python |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) | Medium | python |
 | 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) | Medium | python |
-| 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) | Hard |  |
+| 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) | Hard | python |
 
 #### 迭代极值
 | 序号 | 题目 | 难度 | 代码 |
