@@ -302,7 +302,7 @@
 > 队列知识点和更多题目：[Queue/queue.md](./Queue/queue.md) | [Queue/queue-leetcode-list.md](./Queue/queue-leetcode-list.md)
 
 ## LeetCode 1~400顺序题解
-- [python版本](https://github.com/huxiaoman7/leetcodebook/tree/master/python) | 已更新1~60
+- [python版本](https://github.com/huxiaoman7/leetcodebook/tree/master/python) | 已更新1~80
 - [java版本](https://github.com/huxiaoman7/leetcodebook/tree/master/java)
 - [c++版本](https://github.com/huxiaoman7/leetcodebook/tree/master/c++)
 
@@ -315,4 +315,3 @@
 
 
 ### 动态规划·题目
-
