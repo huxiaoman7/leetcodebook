@@ -224,7 +224,7 @@
 | 序号       | 题目                                                         | 难度   | 代码              |
 | ---------- | ------------------------------------------------------------ | ------ | ----------------- |
 | 109        | [Convert   Sorted List to Binary Search Tree    ](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | Medium | python、java、c++ |
-| 138        | [Copy List   with Random Pointer    ](https://leetcode.com/problems/copy-list-with-random-pointer) | Medium |                   |
+| 138        | [Copy List   with Random Pointer    ](https://leetcode.com/problems/copy-list-with-random-pointer) | Medium | python |
 | 160        | [Intersection   of Two Linked Lists    ](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy   | python、java、c++ |
 | 234        | [Palindrome   Linked List    ](https://leetcode.com/problems/palindrome-linked-list) | Easy   | python、java、c++ |
 | 328        | [Odd   Even Linked List    ](https://leetcode.com/problems/odd-even-linked-list) | Medium | python、java、c++ |
@@ -282,8 +282,8 @@
 | ---- | ---- | ---- | ---- |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | Medium | python |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | Medium | python |
-| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder) | Hard |  |
-| 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | Medium |  |
+| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder) | Hard | python |
+| 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | Medium | python |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph) | Medium | python |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | python |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule) | Medium | python |
@@ -302,7 +302,7 @@
 > 队列知识点和更多题目：[Queue/queue.md](./Queue/queue.md) | [Queue/queue-leetcode-list.md](./Queue/queue-leetcode-list.md)
 
 ## LeetCode 1~400顺序题解
-- [python版本](https://github.com/huxiaoman7/leetcodebook/tree/master/python) | 已更新1~120
+- [python版本](https://github.com/huxiaoman7/leetcodebook/tree/master/python) | 已更新1~140
 - [java版本](https://github.com/huxiaoman7/leetcodebook/tree/master/java)
 - [c++版本](https://github.com/huxiaoman7/leetcodebook/tree/master/c++)
 

@@ -18,9 +18,9 @@
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | Medium | python |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | Medium | python |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | Easy | python |
-| 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) | Hard |  |
-| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder) | Hard |  |
-| 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | Medium |  |
+| 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) | Hard | python |
+| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder) | Hard | python |
+| 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | Medium | python |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph) | Medium | python |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | Medium |  |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | python |

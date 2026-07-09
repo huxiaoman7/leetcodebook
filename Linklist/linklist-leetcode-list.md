@@ -44,7 +44,7 @@
 | 序号       | 题目                                                         | 难度   | 代码              |
 | ---------- | ------------------------------------------------------------ | ------ | ----------------- |
 | 109        | [Convert   Sorted List to Binary Search Tree    ](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | Medium | python、java、c++ |
-| 138        | [Copy List   with Random Pointer    ](https://leetcode.com/problems/copy-list-with-random-pointer) | Medium |                   |
+| 138        | [Copy List   with Random Pointer    ](https://leetcode.com/problems/copy-list-with-random-pointer) | Medium | python |
 | 160        | [Intersection   of Two Linked Lists    ](https://leetcode.com/problems/intersection-of-two-linked-lists) | Easy   | python、java、c++ |
 | 234        | [Palindrome   Linked List    ](https://leetcode.com/problems/palindrome-linked-list) | Easy   | python、java、c++ |
 | 328        | [Odd   Even Linked List    ](https://leetcode.com/problems/odd-even-linked-list) | Medium | python、java、c++ |
