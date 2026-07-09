@@ -14,10 +14,10 @@
 #### BFS
 | 序号 | 题目 | 难度 | 代码 |
 | ---- | ---- | ---- | ---- |
-| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | Medium |  |
-| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | Medium |  |
-| 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | Medium |  |
-| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | Easy |  |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | Medium | python |
+| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | Medium | python |
+| 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | Medium | python |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree) | Easy | python |
 | 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) | Hard |  |
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder) | Hard |  |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | Medium |  |
