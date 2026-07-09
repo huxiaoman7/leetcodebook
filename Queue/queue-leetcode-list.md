@@ -3,7 +3,7 @@
 #### 基础题型
 | 序号 | 题目 | 难度 | 代码 |
 | ---- | ---- | ---- | ---- |
-| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | Easy |  |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | Easy | python |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | python |
 | 281 | [Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator) | Medium |  |
 | 284 | [Peeking Iterator](https://leetcode.com/problems/peeking-iterator) | Medium |  |

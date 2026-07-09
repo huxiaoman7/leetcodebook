@@ -7,7 +7,7 @@
 | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses) | Hard | python |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path) | Medium | python |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack) | Easy | python |
-| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | Easy |  |
+| 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | Easy | python |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | python |
 | 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) | Medium |  |
 | 385 | [Mini Parser](https://leetcode.com/problems/mini-parser) | Medium |  |
@@ -16,8 +16,8 @@
 | 序号 | 题目 | 难度 | 代码 |
 | ---- | ---- | ---- | ---- |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | Medium | python |
-| 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | Hard |  |
-| 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) | Medium |  |
+| 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator) | Hard | python |
+| 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii) | Medium | python |
 | 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses) | Medium |  |
 | 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) | Hard |  |
 
