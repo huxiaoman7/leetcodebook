@@ -10,7 +10,7 @@
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | Easy | python |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | Easy | python |
 | 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator) | Medium | python |
-| 385 | [Mini Parser](https://leetcode.com/problems/mini-parser) | Medium |  |
+| 385 | [Mini Parser](https://leetcode.com/problems/mini-parser) | Medium | python |
 
 #### 表达式计算
 | 序号 | 题目 | 难度 | 代码 |
@@ -41,4 +41,4 @@
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | Easy | python |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | Medium | python |
 | 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree) | Medium | python |
-| 394 | [Decode String](https://leetcode.com/problems/decode-string) | Medium |  |
+| 394 | [Decode String](https://leetcode.com/problems/decode-string) | Medium | python |

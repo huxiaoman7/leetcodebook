@@ -271,7 +271,7 @@
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | Easy | python |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | Easy | python |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | Medium | python |
-| 394 | [Decode String](https://leetcode.com/problems/decode-string) | Medium |  |
+| 394 | [Decode String](https://leetcode.com/problems/decode-string) | Medium | python |
 
 > 栈知识点和更多题目：[Stack/stack.md](./Stack/stack.md) | [Stack/stack-leetcode-list.md](./Stack/stack-leetcode-list.md)
 
@@ -302,7 +302,7 @@
 > 队列知识点和更多题目：[Queue/queue.md](./Queue/queue.md) | [Queue/queue-leetcode-list.md](./Queue/queue-leetcode-list.md)
 
 ## LeetCode 1~400顺序题解
-- [python版本](https://github.com/huxiaoman7/leetcodebook/tree/master/python) | 已更新1~174、179、186~191、198~261、263~380（175~178、180~185、196~197、262为SQL题，192~195为Shell题）
+- [python版本](https://github.com/huxiaoman7/leetcodebook/tree/master/python) | 已更新1~174、179、186~191、198~261、263~400（175~178、180~185、196~197、262为SQL题，192~195为Shell题）
 - [sql版本](https://github.com/huxiaoman7/leetcodebook/tree/master/sql) | 已更新175~178、180~185、196~197、262
 - [shell版本](https://github.com/huxiaoman7/leetcodebook/tree/master/shell) | 已更新192~195
 - [java版本](https://github.com/huxiaoman7/leetcodebook/tree/master/java)
