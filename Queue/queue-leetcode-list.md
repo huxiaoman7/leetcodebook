@@ -33,7 +33,7 @@
 | 序号 | 题目 | 难度 | 代码 |
 | ---- | ---- | ---- | ---- |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Hard | python |
-| 276 | [Paint Fence](https://leetcode.com/problems/paint-fence) | Easy |  |
+| 276 | [Paint Fence](https://leetcode.com/problems/paint-fence) | Easy | python |
 | 353 | [Design Snake Game](https://leetcode.com/problems/design-snake-game) | Medium |  |
 | 363 | [Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k) | Hard |  |
 
