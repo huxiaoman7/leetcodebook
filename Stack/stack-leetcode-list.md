@@ -29,7 +29,7 @@
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | Hard | python |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Hard | python |
 | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | Medium | python |
-| 321 | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number) | Hard |  |
+| 321 | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number) | Hard | python |
 | 402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits) | Medium |  |
 
 #### 栈的应用
@@ -40,5 +40,5 @@
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | Easy | python |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | Easy | python |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | Medium | python |
-| 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree) | Medium |  |
+| 331 | [Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree) | Medium | python |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string) | Medium |  |
