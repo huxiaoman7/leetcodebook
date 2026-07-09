@@ -26,7 +26,7 @@
 | ---- | ---- | ---- | ---- |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | Hard | python |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | Hard | python |
-| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | Hard |  |
+| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | Hard | python |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Hard | python |
 | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | Medium |  |
 | 321 | [Create Maximum Number](https://leetcode.com/problems/create-maximum-number) | Hard |  |
@@ -35,7 +35,7 @@
 #### 栈的应用
 | 序号 | 题目 | 难度 | 代码 |
 | ---- | ---- | ---- | ---- |
-| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy |  |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy | python |
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | Medium |  |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | Easy |  |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | Easy |  |

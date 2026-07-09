@@ -261,13 +261,13 @@
 | ---- | ---- | ---- | ---- |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | Hard | python |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) | Hard | python |
-| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | Hard |  |
+| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | Hard | python |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Hard | python |
 | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters) | Medium |  |
 #### 栈的应用
 | 序号 | 题目 | 难度 | 代码 |
 | ---- | ---- | ---- | ---- |
-| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy |  |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy | python |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | Easy |  |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | Easy |  |
 | 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | Medium |  |
@@ -302,7 +302,7 @@
 > 队列知识点和更多题目：[Queue/queue.md](./Queue/queue.md) | [Queue/queue-leetcode-list.md](./Queue/queue-leetcode-list.md)
 
 ## LeetCode 1~400顺序题解
-- [python版本](https://github.com/huxiaoman7/leetcodebook/tree/master/python) | 已更新1~80
+- [python版本](https://github.com/huxiaoman7/leetcodebook/tree/master/python) | 已更新1~100
 - [java版本](https://github.com/huxiaoman7/leetcodebook/tree/master/java)
 - [c++版本](https://github.com/huxiaoman7/leetcodebook/tree/master/c++)
 
